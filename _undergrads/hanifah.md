@@ -4,7 +4,7 @@ pronouns: she/her
 startdate: 2023-08-01
 enddate: YYYY-MM-DD
 image: /static/img/members/hanifah.png
-position: Junior, University of Illinois Chicago
+position: Junior, <a target="_blank" href= "https://bme.uic.edu/"> University of Illinois Chicago </a>
 email: hshon3  [at]  uic.edu
 linkedin: hanifah-shoneye-023919201
 twitter: 
