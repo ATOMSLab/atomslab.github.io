@@ -10,6 +10,8 @@ group: join
 
 Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment.
 
+**ATOMS Lab is hiring! We have two fully-funded positions, to start in Spring 2025 or sooner!** Details <a target="_blank" href="/static/docs/2024_ATOMS_Lab_hiring_ad.pdf"> here</a>. <br> 
+
 ##### See more about <a target="_blank" href="/static/docs/ATOMS_Lab_Policies.pdf"> our lab policies</a>.
 
 <h3>Undergraduate Students</h3>
