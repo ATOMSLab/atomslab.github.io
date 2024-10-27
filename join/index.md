@@ -16,8 +16,8 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 The ATOMS Lab develops new algorithms for artificial intelligence and molecular simulations. Learn more about our supportive culture and our lab policies <a target="_blank" href="/static/docs/ATOMS_Lab_Policies.pdf"> here</a>. We’re based in the Department of Chemical, Biochemical, and Environmental Engineering at the University of Maryland, Baltimore County, just outside of Baltimore and about an hour north of Washington, DC. 
 
-**1.	Simulation methods for multicomponent adsorption of water pollutants**
-This PhD student (Chemical or Environmental Engineering) will learn Monte Carlo simulations, develop new algorithms, implement them in open-source simulation software, and apply them to predict adsorption of water pollutants. This person will develop simulation workflows that extend our method for predicting adsorption of pollutants at ppb concentrations. They will also incorporate machine learning-based force fields into Monte Carlo simulation software and develop new Monte Carlo moves for reactive chemisorption.
+**1.	Simulation methods for multicomponent adsorption of water pollutant** <br>
+This PhD student (Chemical or Environmental Engineering) will learn Monte Carlo simulations, develop new algorithms, implement them in open-source simulation software, and apply them to predict adsorption of water pollutants. This person will develop simulation workflows that extend <a target="_blank" href="https://doi.org/10.1021/acs.jctc.4c00236">our method</a> for predicting adsorption of pollutants at ppb concentrations. They will also incorporate machine learning-based force fields into Monte Carlo simulation software and develop new Monte Carlo moves for reactive chemisorption.
 
 Preferred qualifications and attributes: 
 - Passionate about research in the chemical sciences and engineering
@@ -29,7 +29,7 @@ Preferred qualifications and attributes:
 - Detail-oriented; strong organization and time management skills
 
 
-**2.	Logic and LLMs for Evaluating Scientific Claims**
+**2.	Logic and LLMs for Evaluating Scientific Claims** <br>
 This PhD student (Chemical Engineering or Computer Science) will join an interdisciplinary team of scientists, engineers, and linguists, to build an AI system for evaluating scientific claims. The ATOMS Lab brings experience in simulations and formal logic for science and engineering. This PhD student will learn to write proofs and programs in Lean 4 (check out our free online course, if you’re interested!), and will develop new ways to interface LLMs with logical reasoning tools. 
 
 Preferred qualifications and attributes:
