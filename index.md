@@ -12,7 +12,7 @@ The ATOMS Lab brings together chemical engineers, computer scientists, and mathe
 
 <p>
     <span style="color: red; font-weight: bold;">We have two fully-funded positions, to start in Spring 2025 or sooner!</span> 
-    Details <a target="_blank" href="/static/docs/2024_ATOMS_Lab_hiring_ad.pdf">here</a>. <br>
+    Details <a target="_blank" href="{{ site.url }}/join">here</a>. <br>
 </p>
 
 **Interested in joining the ATOMS Lab?**

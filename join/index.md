@@ -12,7 +12,7 @@ Our lab welcomes applicants from any race, ethnicity, religion, national origin,
 
 <h3>The ATOMS Lab is hiring!</h3>
 
-<span style="color: red; font-weight: bold;">The AI & Theory-Oriented Molecular Science (ATOMS) Lab has two fully-funded PhD positions, to start in Spring 2025 or sooner.</span> Applications will be reviewed starting November 1. To apply send resume/CV, unofficial transcript, research statement, and 1-2 page letter describing your interest in the ATOMS Lab to atoms@umbc.edu. Specify which project below most interests you (and why), and what degree you would be pursuing at UMBC. Prof. Josephson will be at AIChE in San Diego if you’d like to meet! 
+<span style="color: red; font-weight: bold;">We have two fully-funded PhD positions, to start in Spring 2025 or sooner.</span> Applications will be reviewed starting November 1. To apply send resume/CV, unofficial transcript, research statement, and 1-2 page letter describing your interest in the ATOMS Lab to <a href="mailto:tjo@umbc.edu">atoms@umbc.edu</a>. Specify which project below most interests you (and why), and what degree you would be pursuing at UMBC. Prof. Josephson will be at AIChE in San Diego if you’d like to meet! 
 
 The ATOMS Lab develops new algorithms for artificial intelligence and molecular simulations. Learn more about our supportive culture and our lab policies <a target="_blank" href="/static/docs/ATOMS_Lab_Policies.pdf"> here</a>. We’re based in the Department of Chemical, Biochemical, and Environmental Engineering at the University of Maryland, Baltimore County, just outside of Baltimore and about an hour north of Washington, DC. 
 
