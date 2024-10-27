@@ -10,7 +10,36 @@ group: join
 
 Our lab welcomes applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment.
 
-**ATOMS Lab is hiring! We have two fully-funded positions, to start in Spring 2025 or sooner!** Details <a target="_blank" href="/static/docs/2024_ATOMS_Lab_hiring_ad.pdf"> here</a>. <br> 
+<h3>The ATOMS Lab is hiring!</h3>
+
+<span style="color: red; font-weight: bold;">The AI & Theory-Oriented Molecular Science (ATOMS) Lab has two fully-funded PhD positions, to start in Spring 2025 or sooner.</span> Applications will be reviewed starting November 1. To apply send resume/CV, unofficial transcript, research statement, and 1-2 page letter describing your interest in the ATOMS Lab to atoms@umbc.edu. Specify which project below most interests you (and why), and what degree you would be pursuing at UMBC. Prof. Josephson will be at AIChE in San Diego if you’d like to meet! 
+
+The ATOMS Lab develops new algorithms for artificial intelligence and molecular simulations. Learn more about our supportive culture and our lab policies <a target="_blank" href="/static/docs/ATOMS_Lab_Policies.pdf"> here</a>. We’re based in the Department of Chemical, Biochemical, and Environmental Engineering at the University of Maryland, Baltimore County, just outside of Baltimore and about an hour north of Washington, DC. 
+
+**1.	Simulation methods for multicomponent adsorption of water pollutants**
+This PhD student (Chemical or Environmental Engineering) will learn Monte Carlo simulations, develop new algorithms, implement them in open-source simulation software, and apply them to predict adsorption of water pollutants. This person will develop simulation workflows that extend our method for predicting adsorption of pollutants at ppb concentrations. They will also incorporate machine learning-based force fields into Monte Carlo simulation software and develop new Monte Carlo moves for reactive chemisorption.
+
+Preferred qualifications and attributes: 
+- Passionate about research in the chemical sciences and engineering
+- BS and/or MS and/or PhD in Chemical or Environmental Engineering
+- Prior experience with software development; strong coding skills
+- Prior experience with molecular simulations and/or machine learning (optional)
+- Enjoys math and problem solving
+- Strong written communication skills
+- Detail-oriented; strong organization and time management skills
+
+
+**2.	Logic and LLMs for Evaluating Scientific Claims**
+This PhD student (Chemical Engineering or Computer Science) will join an interdisciplinary team of scientists, engineers, and linguists, to build an AI system for evaluating scientific claims. The ATOMS Lab brings experience in simulations and formal logic for science and engineering. This PhD student will learn to write proofs and programs in Lean 4 (check out our free online course, if you’re interested!), and will develop new ways to interface LLMs with logical reasoning tools. 
+
+Preferred qualifications and attributes:
+- Passionate about research in science and engineering
+- Undergraduate and/or graduate preparation to pursue a chemical engineering or computer science PhD; minor / double major in mathematics highly preferred, and/or amateur fascination with math proofs 
+- Prior coding experience, especially using LLMs with APIs; experience with Lean is a plus
+- Effective collaborator and communicator
+- Strong written communication skills
+- Detail-oriented, strong organization and time management skills
+
 
 ##### See more about <a target="_blank" href="/static/docs/ATOMS_Lab_Policies.pdf"> our lab policies</a>.
 
