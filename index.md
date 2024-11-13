@@ -15,6 +15,8 @@ The ATOMS Lab brings together chemical engineers, computer scientists, and mathe
     Details <a target="_blank" href="{{ site.url }}/join">here</a>. <br>
 </p>
 
+Learn Lean with Lean for Scientists and Engineers. Summer 2024 class recordings are <a target="_blank" href="https://docs.google.com/spreadsheets/d/1ATL-RngI3IGM6uM1ZkXxQdZzYLOAxSn5ZN0MBrfq--o/edit?gid=2038742424#gid=2038742424"> here</a>.
+
 **Interested in joining the ATOMS Lab?**
 Open positions are listed on our <a target="_blank" href="{{ site.url }}/join"> join</a> page. <br>
 See our <a target="_blank" href="/static/docs/ATOMS_Lab_Policies.pdf">lab policies</a> and 
