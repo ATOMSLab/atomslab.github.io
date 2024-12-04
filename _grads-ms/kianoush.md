@@ -4,7 +4,7 @@ pronouns: he/him
 startdate: 2022-08-01
 enddate: YYYY-MM-DD
 image: /static/img/members/kianoush.png
-position: PhD Student, CBEE
+position: Master's Student, CBEE
 email: bj45613 [at]  umbc.edu
 scholar: 4EldJg0AAAAJ&hl
 twitter: 
