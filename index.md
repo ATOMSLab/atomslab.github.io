@@ -10,11 +10,6 @@ In chemistry, the fundamental building blocks are <a target="_blank" href="https
 
 The ATOMS Lab brings together chemical engineers, computer scientists, and mathematicians as we equip computers to reason about and discover theories in molecular science. Learn more about our recent work featured on <a target="_blank" href="https://www.cbc.ca/radio/quirks/artificial-intelligence-ai-scientist-1.6811085"> Canadian Public Radio</a> and our <a target="_blank" href="https://umbc.edu/stories/tyler-josephson-wins-nsf-career-award-ai/"> NSF CAREER Award</a>.
 
-<p>
-    <span style="color: red; font-weight: bold;">We have two fully-funded positions, to start in Spring 2025 or sooner!</span> 
-    Details <a target="_blank" href="{{ site.url }}/join">here</a>. <br>
-</p>
-
 Learn Lean with Lean for Scientists and Engineers. Summer 2024 class recordings are <a target="_blank" href="https://docs.google.com/spreadsheets/d/1ATL-RngI3IGM6uM1ZkXxQdZzYLOAxSn5ZN0MBrfq--o/edit?gid=2038742424#gid=2038742424"> here</a>.
 
 **Interested in joining the ATOMS Lab?**
