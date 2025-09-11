@@ -2,7 +2,7 @@
 name: Charishma Puli
 pronouns: she/her
 startdate: 2023-08-01
-enddate: YYYY-MM-DD
+enddate: 2025-06-30
 image: /static/img/members/charishma.png
 position: MPS Student, <a target="_blank" href= "https://professionalprograms.umbc.edu/data-science/masters-of-professional-studies-data-science/"> Data Science </a>
 email:   cpuli1 [at]  umbc.edu

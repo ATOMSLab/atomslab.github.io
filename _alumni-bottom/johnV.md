@@ -2,7 +2,7 @@
 name: John Velkey
 pronouns: he/him
 startdate: 2023-01-01
-enddate: YYYY-MM-DD
+enddate: 2024-08-01
 image: /static/img/members/john.png
 position: Senior, CBEE
 email:  jvelkey1  [at]  umbc.edu

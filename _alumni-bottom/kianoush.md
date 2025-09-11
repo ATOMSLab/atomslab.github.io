@@ -2,7 +2,7 @@
 name: Kianoush Ramezani Shabolaghi
 pronouns: he/him
 startdate: 2022-08-01
-enddate: YYYY-MM-DD
+enddate: 2024-01-01
 image: /static/img/members/kianoush.png
 position: Master's Student, CBEE
 email: bj45613 [at]  umbc.edu

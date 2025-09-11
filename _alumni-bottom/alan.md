@@ -2,7 +2,7 @@
 name: Alan Vithayathil
 pronouns: he/him
 startdate: 2024-03-24
-enddate: YYYY-MM-DD
+enddate: 2025-01-01
 image: /static/img/members/alan.png
 position: Undergraduate Student, CSEE
 email:  alanv1  [at]  umbc.edu

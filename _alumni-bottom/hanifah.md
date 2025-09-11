@@ -2,7 +2,7 @@
 name: Hanifah Shoneye
 pronouns: she/her
 startdate: 2023-08-01
-enddate: YYYY-MM-DD
+enddate: 2024-01-01
 image: /static/img/members/hanifah.png
 position: Junior, <a target="_blank" href= "https://bme.uic.edu/"> University of Illinois Chicago </a>
 email: hshon3  [at]  uic.edu
