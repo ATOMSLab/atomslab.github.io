@@ -5,7 +5,7 @@ startdate: 2025-01-01
 enddate: YYYY-MM-DD
 image: /static/img/members/izzy.png
 position: PhD Student, CBEE
-email:   fshahmo2 [at]  umbc.edu
+email:   fshahmo2 [at] umbc.edu
 twitter: 
 linkedin: izzy-shahmoradi
 github: IzzyShah
