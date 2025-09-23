@@ -9,5 +9,5 @@ email:  Sanders8 [at] umbc.edu
 linkedin: shashane-anderson-235245280
 twitter: 
 github: ShashaneA
-description:  Shashane is a senior at UMBC pursuing a degree in chemical engineering on the bio track. Her passion for problem-solving serves as her motivation to learn more each day. She engages in activities such as painting, gaming, and listening to music during her spare time.
+description:  Shashane is pursuing a degree in chemical engineering on the bio track. Her passion for problem-solving serves as her motivation to learn more each day. She engages in activities such as painting, gaming, and listening to music during her spare time.
 ---

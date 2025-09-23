@@ -9,5 +9,5 @@ email:  od95178  [at]  umbc.edu
 linkedin: oscar-matemb
 twitter: 
 github: 
-description: Oscar is a senior and majoring in Computer Sciene and Mathematics. He joined the lab to help in Lean Theorem proving in August 2023. He enjoys reading, playing sports in spare time and also working towards his private pilote license.
+description: Oscar is majoring in Computer Sciene and Mathematics. He joined the lab to help in Lean Theorem proving in August 2023. He enjoys reading, playing sports in spare time and also working towards his private pilote license.
 ---
