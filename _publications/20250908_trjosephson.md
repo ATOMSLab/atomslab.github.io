@@ -1,5 +1,5 @@
 ---
-title: "Automating Reasoning in Chemical Science and Engineering"
+title: "**Automating Reasoning in Chemical Science and Engineering**"
 authors: "Josephson, T. R."
 pub_date: '2025-09-08'
 journal: 'chemRxiv'

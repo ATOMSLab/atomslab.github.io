@@ -1,6 +1,6 @@
 ---
-title: "Cooperative catalysis by surface Lewis acid/silanol for selective fructose etherification on Sn-SPP zeolite"
-authors: "**Josephson, T. R.**, DeJaco, R. F., Pahari, S., Ren, L., Guo, Q., Tsapatsis, M., Siepmann, J. I., Vlachos, D. G., Caratzoulas, S."
+title: "**Cooperative catalysis by surface Lewis acid/silanol for selective fructose etherification on Sn-SPP zeolite**"
+authors: "Josephson, T. R., DeJaco, R. F., Pahari, S., Ren, L., Guo, Q., Tsapatsis, M., Siepmann, J. I., Vlachos, D. G., Caratzoulas, S."
 journal: 'ACS Catalysis'
 pub_date: '2018-10-05'
 doi: '10.1021/acscatal.8b01615'
