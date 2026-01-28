@@ -33,6 +33,8 @@ collections:
                 output: true
         new:
                 output: true
+        research-assistant:
+                output: true
         grads-phd:
                 output: true
         grads-ms:
