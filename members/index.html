@@ -96,7 +96,8 @@ group: members
 
 <div class="member-wrapper">
     <h4>Research Assistants</h4>
-    {% for member in site.research-assistant %}
+    {% assign sorted_members = site.research-assistant | sort: 'order' %}
+    {% for member in sorted_members %}
     <div id="{{member.name}}" class="row pb-5">
         <div class="col-sm-3">
             {% if member.image %}

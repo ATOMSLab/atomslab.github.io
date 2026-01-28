@@ -1,5 +1,6 @@
 ---
 name: Alexander Haibel
+order: 2
 pronouns: he/him
 startdate: 2024-05-01
 enddate: YYYY-MM-DD
