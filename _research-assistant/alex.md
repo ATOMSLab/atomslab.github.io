@@ -4,7 +4,7 @@ pronouns: he/him
 startdate: 2024-05-01
 enddate: YYYY-MM-DD
 image: /static/img/members/alex.png
-position: Research Assistant
+position: Post-bacc Research Associate
 email:  ahaibel1 [at] umbc.edu
 scholar: 
 twitter: Abaxial_
